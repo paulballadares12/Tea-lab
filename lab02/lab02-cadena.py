@@ -3,4 +3,8 @@
 #Fecha: 2022.09.02
 # editado: 2022.09.02
 
-print("Hola, mundo!!!!")
+x = "Hola, mundo"
+
+print(x)
+print(type(x))
+
